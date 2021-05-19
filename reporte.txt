@@ -1,0 +1,16 @@
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 1
+ Year: 2018
+ Creator: creator1
+ Duration: 45
+
+ :: SERIE ::
+ Title: Serie 1
+ :: CHAPTER ::
+ Title: Capituo 2
+ Year: 2019
+ Creator: creator2
+ Duration: 45

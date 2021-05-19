@@ -1,0 +1,10 @@
+Date: jue., 2 may. 2021
+
+
+
+ :: MOVIE ::
+ Title: Titanic
+ Genero: Drama
+ Year: 1997
+ Creator: James Cameron
+ Duration: 195
